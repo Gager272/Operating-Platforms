@@ -3,7 +3,7 @@ Briefly summarize The Gaming Room client and their software requirements. Who wa
   The Gaming Room currently has a game called Draw it or Lose it for Android. They want to improve the software functionality to expand to other platforms. I made sure the document was clear and coise to not give anything confusing. 
   
 What about the process of working through a design document did you find helpful when developing the code?
-  When workign through the code I found it helpful to go through sections of the desgin document and work slowly on each one of those sections. I would spend time on each and if one was too much I would come back to the next one the next day.
+  When working through the code I found it helpful to go through sections of the desgin document and work slowly on each one of those sections. I would spend time on each and if one was too much I would come back to the next one the next day.
   
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
   The development requirements was the hardest section for me to acutally write. I understand the requirements but could not fit it all in the little boxes we wre given without creating a huge section.
