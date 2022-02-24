@@ -1,6 +1,6 @@
 # Operating-Platforms
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? What did you do particularly well in developing this documentation?
-  The Gaming Room currently has a game called Draw it or Lose it for Android. They want to improve the software functionality to expand to other platforms. I made sure the document was clear and coise to not give any confusing. 
+  The Gaming Room currently has a game called Draw it or Lose it for Android. They want to improve the software functionality to expand to other platforms. I made sure the document was clear and coise to not give anything confusing. 
   
 What about the process of working through a design document did you find helpful when developing the code?
   When workign through the code I found it helpful to go through sections of the desgin document and work slowly on each one of those sections. I would spend time on each and if one was too much I would come back to the next one the next day.
